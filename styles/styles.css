@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    display: flex;
+    justify-content: end;
+    background-image: url("../images/banner/banner1.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.header-text{
+    padding: 150px;
+    width: 300px;
+    text-align: end;
+}
+
+header h2{
+    font-weight: 700;
+    font-size: 40px;
+}
+header p{
+    margin-top: 25px;
+    font-size: small;
+}
+
+#header-btn{
+    margin-top: 25px;
+    padding: 10px;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 15px;
+    background: #F15B22;
+    border: none;
+    border-radius: 5px;
+}
