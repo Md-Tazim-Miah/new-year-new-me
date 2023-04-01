@@ -36,7 +36,7 @@ header p{
     border-radius: 5px;
 }
 
-.main-body{
+.container{
     margin: 10%;
 }
 
@@ -70,7 +70,7 @@ header p{
 
 .plans-section{
     display: flex;
-    justify-content: space-evenly;
+    justify-content:space-between;
 }
 
 .Plans{
