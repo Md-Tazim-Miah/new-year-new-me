@@ -16,7 +16,7 @@
     text-align: end;
 }
 
-header h2{
+header h1{
     font-weight: 700;
     font-size: 40px;
 }
@@ -34,4 +34,28 @@ header p{
     background: #F15B22;
     border: none;
     border-radius: 5px;
+}
+
+.main-body{
+    margin: 10%;
+}
+
+.failure-section{
+    display: flex;
+    align-items: center;
+}
+
+.img-person{
+    margin-right: 150px;
+}
+
+.failure-text h2{
+    margin-bottom: 20px;
+}
+
+
+.icon{
+    color: rgb(5, 202, 5);
+    font-size: 18px;
+    margin-top: 20px;
 }
