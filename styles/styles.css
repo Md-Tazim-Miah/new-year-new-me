@@ -59,3 +59,29 @@ header p{
     font-size: 18px;
     margin-top: 20px;
 }
+
+/* plan section style */
+
+.plan-header-text{
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.plans-section{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Plans{
+    text-align: center;
+}
+
+.Plans h3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Plans p{
+    color: #737272;
+}
