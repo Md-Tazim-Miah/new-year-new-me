@@ -3,6 +3,8 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
+
+/* header section style */
 .header{
     display: flex;
     justify-content: end;
@@ -40,6 +42,7 @@ header p{
     margin: 10%;
 }
 
+/* previous failure section style */
 .failure-section{
     display: flex;
     align-items: center;
@@ -58,6 +61,35 @@ header p{
     color: rgb(5, 202, 5);
     font-size: 18px;
     margin-top: 20px;
+}
+
+/* dream big section style */
+.dream-big{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.dream-big-text{
+    width: 400px;
+    text-align: justify;
+}
+
+.dream-big-text>h1{
+    font-size: 30px;
+    font-weight:700;
+    text-align: center;
+}
+
+.btn-resume{
+    margin-top: 25px;
+    padding: 10px;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 15px;
+    background: #F15B22;
+    border: none;
+    border-radius: 5px;
 }
 
 /* plan section style */
